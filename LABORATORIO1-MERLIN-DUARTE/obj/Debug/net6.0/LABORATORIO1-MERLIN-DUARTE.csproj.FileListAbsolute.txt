@@ -1,0 +1,15 @@
+C:\proyectos\AsincronaS5\Laboratorio-1-Merlin-Duarte\LABORATORIO1-MERLIN-DUARTE\bin\Debug\net6.0\LABORATORIO1-MERLIN-DUARTE.exe
+C:\proyectos\AsincronaS5\Laboratorio-1-Merlin-Duarte\LABORATORIO1-MERLIN-DUARTE\bin\Debug\net6.0\LABORATORIO1-MERLIN-DUARTE.deps.json
+C:\proyectos\AsincronaS5\Laboratorio-1-Merlin-Duarte\LABORATORIO1-MERLIN-DUARTE\bin\Debug\net6.0\LABORATORIO1-MERLIN-DUARTE.runtimeconfig.json
+C:\proyectos\AsincronaS5\Laboratorio-1-Merlin-Duarte\LABORATORIO1-MERLIN-DUARTE\bin\Debug\net6.0\LABORATORIO1-MERLIN-DUARTE.dll
+C:\proyectos\AsincronaS5\Laboratorio-1-Merlin-Duarte\LABORATORIO1-MERLIN-DUARTE\bin\Debug\net6.0\LABORATORIO1-MERLIN-DUARTE.pdb
+C:\proyectos\AsincronaS5\Laboratorio-1-Merlin-Duarte\LABORATORIO1-MERLIN-DUARTE\obj\Debug\net6.0\LABORATORIO1-MERLIN-DUARTE.csproj.AssemblyReference.cache
+C:\proyectos\AsincronaS5\Laboratorio-1-Merlin-Duarte\LABORATORIO1-MERLIN-DUARTE\obj\Debug\net6.0\LABORATORIO1-MERLIN-DUARTE.GeneratedMSBuildEditorConfig.editorconfig
+C:\proyectos\AsincronaS5\Laboratorio-1-Merlin-Duarte\LABORATORIO1-MERLIN-DUARTE\obj\Debug\net6.0\LABORATORIO1-MERLIN-DUARTE.AssemblyInfoInputs.cache
+C:\proyectos\AsincronaS5\Laboratorio-1-Merlin-Duarte\LABORATORIO1-MERLIN-DUARTE\obj\Debug\net6.0\LABORATORIO1-MERLIN-DUARTE.AssemblyInfo.cs
+C:\proyectos\AsincronaS5\Laboratorio-1-Merlin-Duarte\LABORATORIO1-MERLIN-DUARTE\obj\Debug\net6.0\LABORATORIO1-MERLIN-DUARTE.csproj.CoreCompileInputs.cache
+C:\proyectos\AsincronaS5\Laboratorio-1-Merlin-Duarte\LABORATORIO1-MERLIN-DUARTE\obj\Debug\net6.0\LABORATORIO1-MERLIN-DUARTE.dll
+C:\proyectos\AsincronaS5\Laboratorio-1-Merlin-Duarte\LABORATORIO1-MERLIN-DUARTE\obj\Debug\net6.0\refint\LABORATORIO1-MERLIN-DUARTE.dll
+C:\proyectos\AsincronaS5\Laboratorio-1-Merlin-Duarte\LABORATORIO1-MERLIN-DUARTE\obj\Debug\net6.0\LABORATORIO1-MERLIN-DUARTE.pdb
+C:\proyectos\AsincronaS5\Laboratorio-1-Merlin-Duarte\LABORATORIO1-MERLIN-DUARTE\obj\Debug\net6.0\LABORATORIO1-MERLIN-DUARTE.genruntimeconfig.cache
+C:\proyectos\AsincronaS5\Laboratorio-1-Merlin-Duarte\LABORATORIO1-MERLIN-DUARTE\obj\Debug\net6.0\ref\LABORATORIO1-MERLIN-DUARTE.dll
